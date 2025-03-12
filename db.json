@@ -1,0 +1,249 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Животные"
+    },
+    {
+      "id": "2",
+      "name": "Техника"
+    },
+    {
+      "id": "3",
+      "name": "Мебель"
+    },
+    {
+      "id": "4",
+      "name": "Продукты"
+    },
+    {
+      "id": "5",
+      "name": "Одежда"
+    },
+    {
+      "id": "6",
+      "name": "Транспорт"
+    },
+    {
+      "id": "7",
+      "name": "Профессии"
+    },
+    {
+      "id": "8",
+      "name": "Спорт"
+    },
+    {
+      "id": "9",
+      "name": "Цвета"
+    },
+    {
+      "id": "10",
+      "name": "Фрукты"
+    }
+  ],
+  "words": [
+    {
+      "id": "2",
+      "categoryId": 1,
+      "ru": "Собака",
+      "en": "Dog",
+      "image": "https://zooclub.ru/attach/8055.jpg"
+    },
+    {
+      "id": "3",
+      "categoryId": 1,
+      "ru": "Лев",
+      "en": "Lion",
+      "image": "https://i.pinimg.com/originals/fd/2a/2f/fd2a2f0e44ad8561c3c90a16a24b59b2.jpg"
+    },
+    {
+      "id": "4",
+      "categoryId": 2,
+      "ru": "Телефон",
+      "en": "Phone",
+      "image": "https://mtscdn.ru/upload/images/obzor-sravnenie-smartfonov-samsung-galaxy-s24-i-galaxy-s24-ultra-9.png/resize/960x960/"
+    },
+    {
+      "id": "5",
+      "categoryId": 2,
+      "ru": "Ноутбук",
+      "en": "Laptop",
+      "image": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/656/299/770/103/084/1/100047402608b2.jpg"
+    },
+    {
+      "id": "6",
+      "categoryId": 2,
+      "ru": "Телевизор",
+      "en": "TV",
+      "image": "https://cdn.mediapark.uz/images/3cafbfed-8bc7-4891-abc1-8e9a5768caec_mediaparkproduct_20.png"
+    },
+    {
+      "id": "7",
+      "categoryId": 3,
+      "ru": "Стол",
+      "en": "Table",
+      "image": "https://www.sacreativity.com/wp-content/uploads/2018/02/sleek-modern-coffee-table-with-minimalist-shape-in-square-shape-intended-for-trendy-square-shaped-coffee-tables.jpg"
+    },
+    {
+      "id": "8",
+      "categoryId": 3,
+      "ru": "Стул",
+      "en": "Chair",
+      "image": "https://i.pinimg.com/736x/7b/7a/e6/7b7ae6371c1adcee2ff88de3d51e09b6.jpg"
+    },
+    {
+      "id": "9",
+      "categoryId": 3,
+      "ru": "Шкаф",
+      "en": "Wardrobe",
+      "image": "https://i.pinimg.com/originals/b3/20/a5/b320a526faf5f18333330cfaf80221c2.jpg"
+    },
+    {
+      "id": "10",
+      "categoryId": 4,
+      "ru": "Хлеб",
+      "en": "Bread",
+      "image": "https://proza.ru/pics/2020/01/06/67.jpg"
+    },
+    {
+      "id": "11",
+      "categoryId": 4,
+      "ru": "Молоко",
+      "en": "Milk",
+      "image": "https://frankfurt.apollo.olxcdn.com/v1/files/59ejbz6sz63s2-KZ/image"
+    },
+    {
+      "id": "12",
+      "categoryId": 4,
+      "ru": "Яйцо",
+      "en": "Egg",
+      "image": "https://i.ytimg.com/vi/M17aGq6Qlbs/maxresdefault.jpg"
+    },
+    {
+      "id": "13",
+      "categoryId": 5,
+      "ru": "Куртка",
+      "en": "Jacket",
+      "image": "https://avatars.mds.yandex.net/get-mpic/5219318/img_id6291543352778793918.jpeg/orig"
+    },
+    {
+      "id": "14",
+      "categoryId": 5,
+      "ru": "Футболка",
+      "en": "T-shirt",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-1-7/7093461535.jpg"
+    },
+    {
+      "id": "15",
+      "categoryId": 5,
+      "ru": "Штаны",
+      "en": "Pants",
+      "image": "https://i.pinimg.com/736x/92/1f/18/921f188a35442f88b2cbcc013a54cf52.jpg"
+    },
+    {
+      "id": "16",
+      "categoryId": 6,
+      "ru": "Машина",
+      "en": "Car",
+      "image": "https://avatars.mds.yandex.net/i?id=70ca73d2d0348c362ae968df9c33db8c_l-5433602-images-thumbs&n=13"
+    },
+    {
+      "id": "17",
+      "categoryId": 6,
+      "ru": "Велосипед",
+      "en": "Bicycle",
+      "image": "https://ae01.alicdn.com/kf/H87e6d6a231204c4587cd3d447ed42288T/Green-Bike-26.png"
+    },
+    {
+      "id": "18",
+      "categoryId": 6,
+      "ru": "Автобус",
+      "en": "Bus",
+      "image": "https://www.op78.ru/wp-content/uploads/2023/04/kVFl1cxa1DE.jpg"
+    },
+    {
+      "id": "19",
+      "categoryId": 7,
+      "ru": "Врач",
+      "en": "Doctor",
+      "image": "https://cdn.mknc.ru/contents/albums/preview/2000x2000/13000/13294/preview.jpg"
+    },
+    {
+      "id": "20",
+      "categoryId": 7,
+      "ru": "Учитель",
+      "en": "Teacher",
+      "image": "https://daily.hse.ru/storage/438123_diller0054.jpg"
+    },
+    {
+      "id": "21",
+      "categoryId": 7,
+      "ru": "Повар",
+      "en": "Chef",
+      "image": "https://i.ytimg.com/vi/S0FJX00TM1k/maxresdefault.jpg"
+    },
+    {
+      "id": "22",
+      "categoryId": 8,
+      "ru": "Футбол",
+      "en": "Football",
+      "image": "https://cdn.culture.ru/images/e327f5e0-617d-57ed-b7a9-ddd875424f74"
+    },
+    {
+      "id": "23",
+      "categoryId": 8,
+      "ru": "Баскетбол",
+      "en": "Basketball",
+      "image": "https://i.pinimg.com/originals/52/e0/ca/52e0cae2a0ea1d528f3ffecbce21cb6f.jpg"
+    },
+    {
+      "id": "24",
+      "categoryId": 8,
+      "ru": "Теннис",
+      "en": "Tennis",
+      "image": "https://avatars.mds.yandex.net/get-altay/2385630/2a000001711b11da2e1508509a14625f5053/XXXL"
+    },
+    {
+      "id": "25",
+      "categoryId": 9,
+      "ru": "Черный",
+      "en": "Black",
+      "image": "https://i0.wp.com/www.blendswap.com/blend_previews/21332/0/0"
+    },
+    {
+      "id": "26",
+      "categoryId": 9,
+      "ru": "Синий",
+      "en": "Blue",
+      "image": "https://i.4pda.ws/s/as6yqiESNE1ChsYz1nm1vC90aodS7LZhnDPJYz0FWHt0tc.jpg?v=1697540945"
+    },
+    {
+      "id": "27",
+      "categoryId": 9,
+      "ru": "Желтый",
+      "en": "Yellow",
+      "image": "https://i.pinimg.com/736x/e6/eb/cf/e6ebcfa5f00f77342ccef42cfb4c2608.jpg"
+    },
+    {
+      "id": "28",
+      "categoryId": 10,
+      "ru": "Яблоко",
+      "en": "Apple",
+      "image": "https://cdn.culture.ru/images/90902769-9533-584d-83ed-612be831f71a"
+    },
+    {
+      "id": "29",
+      "categoryId": 10,
+      "ru": "Банан",
+      "en": "Banana",
+      "image": "https://avatars.mds.yandex.net/i?id=4b28a9b4c673604962dce13c371a9be8_l-8378316-images-thumbs&n=13"
+    },
+    {
+      "id": "30",
+      "categoryId": 10,
+      "ru": "Апельсин",
+      "en": "Orange",
+      "image": "https://ogorod-shop.ru/upload/iblock/daf/0v6wrf8a3worxnvgm5f7waoze5l2c5rh.jpg"
+    }
+  ]
+}
