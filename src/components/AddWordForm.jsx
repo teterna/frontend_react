@@ -2,7 +2,7 @@ import React from "react";
 
 const AddWordForm = ({ newWord, setNewWord, addWord }) => {
     return (
-        <div className="flex gap-4 mb-6 w-[85%] ">
+        <div className="flex gap-4 mb-6 w-[85%]  ">
             <input
                 type="text"
                 value={newWord.ru}

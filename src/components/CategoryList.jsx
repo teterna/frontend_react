@@ -2,7 +2,7 @@ import React from "react";
 
 const CategoryList = ({ categories, selectedCategory, filterWordsByCategory, deleteCategory }) => {
     return (
-        <div className="gap-4 mb-6 flex flex-col w-[15%] select-none">
+        <div className="gap-4 mb-6 flex flex-col w-22 select-none ">
             <button
                 onClick={() => filterWordsByCategory(null)}
                 className={`py-2 px-4 rounded-lg shadow-md ${

@@ -1,9 +1,9 @@
 
 const WordList = ({ words, deleteWord }) => {
     return (
-        <div className="grid grid-cols-4 gap-4 w-[85%] h-screen overflow-y-auto p-2 shadow-lg">
+        <div className="grid grid-cols-3 gap-5 w-full  h-[92.5vh] overflow-y-auto shadow-lg bg-gray-100 " >
             {words.map((word) => (
-                <div key={word.id} className="p-4 bg-white rounded-lg shadow-md w-[260px]">
+                <div key={word.id} className="p-4 bg-white  rounded-lg shadow-md w-[260px] h-[350px] mb-5 ">
                     <img
                         src={word.image}
                         alt={word.en}

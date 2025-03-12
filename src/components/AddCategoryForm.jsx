@@ -2,7 +2,7 @@ import React from "react";
 
 const AddCategoryForm = ({ newCategoryName, setNewCategoryName, addCategory }) => {
     return (
-        <div className="flex gap-4 mb-6 w-[15%] flex-col">
+        <div className="flex gap-4 mb-6 w-22 flex-col ">
             <input
                 type="text"
                 value={newCategoryName}

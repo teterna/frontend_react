@@ -74,9 +74,9 @@ const HomePage = () => {
     };
 
     return (
-        <div className="p-8 flex flex-col items-center h-screen">
+        <div className="p-8 flex flex-col items-center h-screen ">
             <h1 className="text-3xl font-bold mb-6">Word Categories</h1>
-            <div className="flex gap-8 w-full">
+            <div className="flex w-full">
                 <div className="flex flex-col items-start w-1/3">
                     <AddCategoryForm
                         newCategoryName={newCategoryName}
@@ -90,13 +90,13 @@ const HomePage = () => {
                         deleteCategory={deleteCategory}
                     />
                 </div>
-                <div className="flex flex-col items-start w-2/3">
+                <div className="flex flex-col items-start w-2/3 ">
                     <AddWordForm
                         newWord={newWord}
                         setNewWord={setNewWord}
                         addWord={addWord}
                     />
-                    <WordList words={words} deleteWord={deleteWord} />
+                    <WordList words={words} deleteWord={deleteWord} className/>
                 </div>
             </div>
         </div>
